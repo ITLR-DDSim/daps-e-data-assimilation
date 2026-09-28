@@ -1,1 +1,2 @@
-# daps-e-data-assimilation.
+# Toward Principled Generative Data Assimilation of Turbulent Flows
+Code accompanying the manuscript "Toward Principled Generative Data Assimilation of Turbulent Flows from Sparse Observations", currently under review.
